@@ -1,0 +1,15 @@
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.csproj.AssemblyReference.cache
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.AssemblyInfoInputs.cache
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.AssemblyInfo.cs
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.csproj.CoreCompileInputs.cache
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\bin\Debug\net6.0\Example005_if_elsw.exe
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\bin\Debug\net6.0\Example005_if_elsw.deps.json
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\bin\Debug\net6.0\Example005_if_elsw.runtimeconfig.json
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\bin\Debug\net6.0\Example005_if_elsw.dll
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\bin\Debug\net6.0\Example005_if_elsw.pdb
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.dll
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\refint\Example005_if_elsw.dll
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.pdb
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\Example005_if_elsw.genruntimeconfig.cache
+C:\Users\adoys\OneDrive\Рабочий стол\работы по C#\урок 1\Examples\Example005_if_elsw\obj\Debug\net6.0\ref\Example005_if_elsw.dll
